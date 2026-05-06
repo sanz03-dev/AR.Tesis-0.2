@@ -9,6 +9,7 @@ public class ItemButtonManager : MonoBehaviour
     private string itemDescription;
     private Sprite itemImage;
     private GameObject item3DModel;
+    private ARInteractionsManager interactionsManager;
 
     public string ItemName {
         set
@@ -49,12 +50,15 @@ public class ItemButtonManager : MonoBehaviour
         button.onClick.AddListener(ARManager.instance.ARPosition);
         button.onClick.AddListener(Create3DModel);
 
+        interactionsManager = FindObjectOfType<ARInteractionsManager>();
+
         Debug.Log("El nombre recibido es: " + itemName);
 
     }
 
     public void Create3DModel()
     {
-        Instantiate(item3DModel);
+       interactionsManager.Item3DModel = Instantiate(item3DModel);
     }
+
 }

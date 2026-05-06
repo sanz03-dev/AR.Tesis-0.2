@@ -1,0 +1,982 @@
+{
+  "questions": [
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Qué tipo de figura es el Cubo de Necker?",
+      "answers": ["Un objeto real", "Un dibujo animado", "Una ilusión óptica", "Un símbolo matemático"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Cuántas formas diferentes se pueden percibir en el Cubo de Necker?",
+      "answers": ["Una", "Tres", "Cuatro", "Dos"],
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Qué sucede cuando observas el Cubo de Necker durante varios segundos?",
+      "answers": ["Desaparece", "Cambia de perspectiva", "Se vuelve más grande", "Se rompe"],
+      "correct": 1
+    },{
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿En qué año fue publicado por primera vez el Cubo de Necker?",
+      "answers": ["1932", "1832", "1905", "1888"], 
+      "correct": 1
+    },{
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Cuál es la nacionalidad de Louis Albert Necker, quien descubrió la figura?", 
+      "answers": ["Alemán", "Suizo", "Francés", "Austríaco"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Qué falta en el Cubo de Necker para indicar claramente la profundidad?",
+      "answers": ["Color", "Movimiento", "Sombreado", "Sonido"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Qué hace el cerebro al observar el Cubo de Necker?",
+      "answers": ["La ignora", "La borra", "La divide", "Interpreta la imagen"],
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿El cambio de perspectiva en el Cubo de Necker ocurre por?",
+      "answers": ["El dibujo", "La pantalla", "El cerebro", "La luz"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿El Cubo de Necker es un ejemplo de:?",
+      "answers": ["Movimiento real", "Percepción ambigua", "Color cambiante", "Sonido visual"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Qué parte del cuerpo interpreta el Cubo de Necker?",
+      "answers": ["Los ojos", "Las manos", "El cerebro", "Los oídos"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "facil",
+      "question": "¿Puedes ver las dos perspectivas del cubo al mismo tiempo?",
+      "answers": ["Sí", "Solo con práctica", "No", "Solo con gafas"],
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "Originalmente, ¿qué estaba observando Necker cuando descubrió la ilusión?",
+      "answers": ["Estrellas", "Cristales de romboedro", "Planos arquitectónicos", "Nubes"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Por qué el cerebro no puede ver ambas orientaciones al mismo tiempo?",
+      "answers": ["Por falta de luz", "Por el principio de exclusión mutua perceptual", "Por cansancio ocular", "Por la baja resolución del ojo"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué sesgo perceptivo suele hacernos ver la cara 'inferior' como frontal primero?",
+      "answers": ["Preferencia por la vista desde arriba","Sesgo de arriba-abajo", "Sesgo de color", "Efecto de anclaje"], 
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Cómo se llama el fenómeno donde la percepción salta entre las dos interpretaciones del cubo?",
+      "answers": ["Ceguera por movimiento", "Efecto de persistencia", "Percepción biestable", "Paralaje de movimiento"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Por qué el Cubo de Necker no tiene una única interpretación?",
+      "answers": ["Porque está mal dibujado", "Porque carece de pistas visuales suficientes", "Porque cambia de forma", "Porque tiene animación"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué característica hace que el Cubo de Necker sea ambiguo?",
+      "answers": ["La falta de sombreado", "El exceso de color", "El movimiento constante", "El tamaño variable"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué proceso cognitivo permite cambiar entre las dos percepciones del cubo?",
+      "answers": ["Respiración", "Digestión", "Atención", "Circulación"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Por qué no puedes ver ambas perspectivas al mismo tiempo?",
+      "answers": ["Porque el dibujo es incorrecto", "Porque el cerebro selecciona una interpretación", "Porque falta luz", "Porque cambia la pantalla"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué ocurre en el cerebro cuando cambia la percepción del cubo?",
+      "answers": ["La imagen se modifica", "Se apaga la visión", "Se alternan interpretaciones", "Se pierde información"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué tipo de información falta en el Cubo de Necker?",
+      "answers": ["Información auditiva", "Información de profundidad", "Información térmica", "Información de textura"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué demuestra el Cubo de Necker sobre la percepción?",
+      "answers": ["Que es siempre exacta", "Que depende solo de los ojos", "Que es una construcción del cerebro", "Que es aleatoria"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "media",
+      "question": "¿Qué papel juega la experiencia previa al ver el cubo?",
+      "answers": ["Ninguno", "Determina completamente la imagen", "Influye en la interpretación", "Elimina la ambigüedad"],
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué término científico describe el agotamiento de neuronas que causa el cambio de percepción?",
+      "answers": ["Adaptación neuronal", "Sinapsis tardía", "Fatiga de sacádicos", "Inhibición lateral"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Cuál de estos factores NO influye en la velocidad de alternancia del cubo?", 
+      "answers": ["La atención del sujeto", "La ingesta de cafeína", "La presión atmosférica", "La edad del observador"], 
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "En neurología, el estudio del Cubo de Necker se usa para medir la capacidad de:",
+      "answers": ["Memoria a corto plazo", "Flexibilidad cognitiva", "Agudeza visual", "Reflejos motores"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué corriente de la psicología estudió profundamente el cubo para explicar la organización de formas?", 
+      "answers": ["Conductismo", "Psicoanálisis", "Humanismo", "Gestalt"], 
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué tipo de procesamiento está más implicado al intentar forzar una perspectiva del cubo?",
+      "answers": ["Procesamiento bottom-up", "Procesamiento reflejo", "Procesamiento top-down", "Procesamiento automático"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué demuestra el Cubo de Necker sobre la relación entre estímulo y percepción?",
+      "answers": ["Que son independientes", "Que son idénticos", "Que la percepción no depende del estímulo", "Que un mismo estímulo puede generar múltiples percepciones"],
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué proceso explica que el cerebro complete una estructura tridimensional a partir de líneas planas?",
+      "answers": ["Inferencia perceptiva", "Reflejo visual", "Adaptación biológica", "Memoria muscular"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué área funcional del cerebro está más relacionada con la interpretación espacial del cubo?",
+      "answers": ["Corteza auditiva", "Corteza motora", "Corteza parietal", "Sistema límbico"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Por qué el Cubo de Necker es útil en estudios de conciencia?",
+      "answers":  ["Porque cambia físicamente", "Porque permite observar cambios perceptivos sin cambios en el estímulo", "Porque es tridimensional real", "Porque genera respuestas motoras"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "cubo",
+      "difficulty": "dificil",
+      "question": "¿Qué demuestra esta ilusión sobre el procesamiento visual humano?",
+      "answers": ["Que es completamente pasivo", "Que es un proceso activo de interpretación", "Que depende solo de la retina", "Que es siempre preciso"],
+      "correct": 1
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿En que año fue creada originalmente esta figura?",
+      "answers": ["1920", "1990", "2000", "1934"],
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Quién fue el artista que creó la primera versión de esta figura en 1934?",
+      "answers": ["Oscar Reutersvärd", "Roger Penrose", "M.C. Escher", "Salvador Dalí"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Por qué el ojo humano acepta la figura como un triángulo al principio?", 
+      "answers": ["Porque tiene 3 esquinas", "Porque las conexiones locales parecen lógicas", "Porque los colores son llamativos", "Porque es una figura pequeña"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Cuál es la principal 'imposibilidad' de este triángulo?",
+      "answers": ["Sus lados no se tocan", "Las barras son paralelas y perpendiculares a la vez", "No tiene ángulos", "Cambia de color según se mire"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Qué tipo de figura es el Triángulo de Penrose?",
+      "answers": ["Un objeto real", "Una figura matemática simple", "Una ilusión óptica", "Un dibujo animado"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿El Triángulo de Penrose puede existir en la realidad?",
+      "answers": ["Sí", "Solo en 3D", "No", "Solo con luz especial"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Qué intenta hacer el cerebro al ver el Triángulo de Penrose?",
+      "answers": ["Ignorarlo", "Romperlo", "Interpretarlo como un objeto real", "Cambiar su color"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Qué genera el Triángulo de Penrose en el observador?",
+      "answers": ["Confusión visual", "Sonido", "Movimiento físico", "Calor"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Qué característica tienen sus lados?",
+      "answers": ["No se conectan", "Se conectan de forma imposible", "Son invisibles", "Cambian de tamaño"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "facil",
+      "question": "¿Qué parte del cuerpo interpreta esta figura?",
+      "answers": ["Las manos", "Los oídos", "El cerebro", "Los pies"],
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿En qué ciudad se encuentra una famosa escultura real del Triángulo de Penrose?",
+      "answers": ["Madrid", "Perth", "Nueva York", "París"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿En qué famosa litografía de M.C. Escher se utiliza el Triángulo de Penrose como base?",
+      "answers": ["Cascada (Waterfall)", "Manos dibujando", "Día y Noche", "Galería de grabados"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué sucede con nuestra percepción al intentar recorrer el borde del triángulo?",
+      "answers": ["Entendemos la profundidad", "Sentimos que la orientación de las caras cambia sin sentido", "Vemos una línea recta", "El cerebro ignora las aristas"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Por qué el Triángulo de Penrose parece posible a primera vista?",
+      "answers": ["Porque se mueve", "Porque cada parte parece coherente", "Porque tiene colores realistas", "Porque es simétrico"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué tipo de conflicto genera esta figura?",
+      "answers": ["Auditivo", "Emocional", "Visual-espacial", "Térmico"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué proceso cognitivo hace que el cerebro intente interpretar la figura como real?",
+      "answers": ["Digestión", "Inferencia perceptiva", "Respiración", "Circulación"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué ocurre cuando el cerebro intenta unir todas las partes del triángulo?",
+      "answers": ["Se vuelve más claro", "Se genera una contradicción", "Se convierte en otra figura", "Desaparece"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué tipo de información visual es inconsistente en el Triángulo de Penrose?",
+      "answers": ["Color", "Movimiento", "Profundidad", "Brillo"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué demuestra esta figura sobre la percepción humana?",
+      "answers": ["Que siempre es exacta", "Que depende solo de los ojos", "Que puede ser engañada", "Que es aleatoria"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "media",
+      "question": "¿Qué influye en la forma en que interpretas el triángulo?",
+      "answers": ["El sonido", "La temperatura", "La experiencia previa", "La gravedad"],
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué principio de la Gestalt explica por qué cerramos la figura mentalmente?",
+      "answers": ["Ley de Proximidad", "Ley de Cierre o Clausura", "Ley de Continuidad", "Ley de Semejanza"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Cómo se llama el concepto matemático donde los ángulos en cada esquina parecen ser de 90°?",
+      "answers": ["Triángulo rectángulo imposible", "Espacio no euclidiano", "Paradoja de la perpendicularidad triple", "Teorema de Pitágoras inverso"], 
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué elemento visual es clave para 'romper' la ilusión en una fotografía de una escultura real?", 
+      "answers": ["El flash de la cámara", "La profundidad de campo", "Cambiar el ángulo de visión (paralaje)", "El balance de blancos"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Cuál es la suma aparente de los ángulos internos del Triángulo de Penrose en su dibujo?",
+      "answers": ["180°", "270°", "360°", "90°"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué tipo de procesamiento se evidencia cuando el cerebro intenta interpretar la figura completa?",
+      "answers": ["Procesamiento motor", "Procesamiento auditivo", "Procesamiento global", "Procesamiento reflejo"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué tipo de inferencia realiza el cerebro al observar esta figura?",
+      "answers": ["Inferencia auditiva", "Inferencia térmica", "Inferencia perceptiva tridimensional", "Inferencia motora"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué demuestra esta ilusión sobre la relación entre percepción local y global?",
+      "answers": ["Que siempre coinciden", "Que la percepción global domina siempre", "Que pueden entrar en conflicto", "Que son independientes"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué principio cognitivo se pone en evidencia al intentar interpretar la figura?",
+      "answers": ["Organización perceptiva", "Reflejo condicionado", "Memoria muscular", "Respuesta automática"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué papel juega el procesamiento top-down en esta ilusión?",
+      "answers": ["No interviene", "Elimina la ambigüedad", "Intenta imponer coherencia basada en experiencia previa", "Genera el estímulo visual"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "triangulo",
+      "difficulty": "dificil",
+      "question": "¿Qué demuestra el Triángulo de Penrose sobre la construcción de la realidad visual?",
+      "answers": ["Que es completamente objetiva", "Que depende del estímulo únicamente", "Que es una construcción activa del cerebro", "Que es aleatoria"],
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Cuál es el apodo más común para las Escaleras de Penrose?", 
+      "answers": ["El laberinto", "La escalera al cielo", "La escalera infinita", "El círculo vicioso"], 
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿En que año fueron descritas las Escaleras de Penrose?", 
+      "answers": ["1958", "1969", "2001", "1990"], 
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Quiénes diseñaron y publicaron originalmente esta figura en 1958?",
+      "answers": ["M.C. Escher", "Isaac Newton", "Albert Einstein" , "Lionel y Roger Penrose"], 
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Qué sucede si sigues el camino de las escaleras en una sola dirección?",
+      "answers": ["Llegas al final", "Subes o bajas perpetuamente", "Te encuentras con un muro", "La escalera se rompe"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿En cuántas dimensiones es posible construir físicamente esta escalera sin trucos visuales?",
+      "answers": ["2 dimensiones", "3 dimensiones", "4 dimensiones", "Ninguna"],
+      "correct": 3
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Cuántos giros de 90 grados realiza la escalera para cerrarse sobre sí misma?",
+      "answers": ["Dos", "Tres", "Cuatro", "Ocho"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Dónde fueron publicadas originalmente las escaleras?", 
+      "answers": ["Revista científica", "Artículo", "Periódico", "Anuario"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Qué característica tienen las escaleras?",
+      "answers": ["Terminan en un punto final", "Forman un ciclo imposible", "Son muy altas", "Cambian de color"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Qué generan estas escaleras en el observador?", 
+      "answers": ["Confusión visual", "Sonido", "Movimiento real", "Calor"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "facil",
+      "question": "¿Qué parece ocurrir con la altura en esta figura?",
+      "answers": ["Se mantiene igual", "Disminuye", "Aumenta constantemente", "Desaparece"], 
+      "correct": 2
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Cómo se llama la famosa obra de M.C. Escher inspirada en esta figura?", 
+      "answers": ["Relatividad", "Ascenso y descenso", "Cascada", "Metamorfosis"],  
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué tipo de paradoja representa esta figura geométrica?",
+      "answers": ["Paradoja temporal", "Paradoja de autorreferencia", "Paradoja visual de objeto imposible", "Paradoja del mentiroso"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué truco de perspectiva se utiliza para crear la ilusión de subida constante?",
+      "answers": ["Uso de sombras", "Líneas que no se conectan", "Falsa perspectiva lineal", "Distorsión de los peldaños"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "En la película 'Inception' (Origen), ¿qué personaje explica la arquitectura de esta escalera?", 
+      "answers": ["Cobb", "Arthur", "Ariadne", "Eames"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué ocurre con nuestra lógica espacial al intentar seguir un peldaño con el dedo?",
+      "answers": ["El cerebro lo acepta como real", "Se produce una disonancia cognitiva", "La vista se nubla", "No ocurre nada"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué papel juega la percepción espacial en esta ilusión?", 
+      "answers": ["Ninguno", "Genera sonido", "Permite interpretar la profundidad", "Cambia el color"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué tipo de error perceptivo representa esta figura?",
+      "answers": ["Error auditivo", "Error motor", "Error visual de interpretación", "Error químico"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué influye en cómo interpretas la figura?",
+      "answers": ["El sonido", "La temperatura", "La experiencia previa", "La gravedad"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué proceso cognitivo hace que el cerebro intente interpretar las escaleras como reales?",
+      "answers": ["Respiración", "Circulación", "Inferencia perceptiva", "Digestión"],  
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "media",
+      "question": "¿Qué demuestra esta ilusión sobre la percepción humana?",
+      "answers": ["Que es siempre exacta", "Que puede ser engañada", "Que depende del clima", "Que es aleatoria"], 
+      "correct": 1
+    },
+
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué concepto matemático describe una estructura localmente lógica pero globalmente imposible?", 
+      "answers": ["Topología inconsistente", "Geometría euclidiana", "Cálculo diferencial", "Álgebra lineal"],
+      "correct": 0
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Cuál es la relación entre el Triángulo de Penrose y las Escaleras?", 
+      "answers": ["No tienen relación", "Son variaciones del mismo concepto de objeto imposible", "Fueron creadas por distintas personas", "Una es la sombra de la otra"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué término psicológico describe la incapacidad inicial del cerebro para detectar el error en la escalera?", 
+      "answers": ["Agnosia visual", "Aceptación de coherencia local", "Efecto Stroop", "Pareidolia"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿En qué revista científica publicaron los Penrose su artículo 'Impossible Objects'?", 
+      "answers": ["Nature", "British Journal of Psychology", "Science", "The Lancet"], 
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué característica geométrica se rompe en las esquinas de la escalera?", 
+      "answers": ["La suma de ángulos internos", "La continuidad del plano inclinado", "La simetría bilateral", "El color de las aristas"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué indica que el recorrido regrese al punto inicial?", 
+      "answers": ["Error de dibujo", "Falta de atención", "Violación de la consistencia espacial", "Problema visual"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué fenómeno perceptivo describe mejor las Escaleras de Penrose?", 
+      "answers": ["Adaptación sensorial", "Ilusión de movimiento", "Inconsistencia espacial global", "Habituación"],
+      "correct": 2
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué principio físico se rompe al permitir un ascenso o descenso infinito en un ciclo cerrado?",
+      "answers": ["Ley de gravitación", "Conservación de la energía", "Segunda ley de Newton", "Efecto Doppler"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Cómo procesa el cerebro esta figura para que la ilusión sea efectiva?",
+      "answers": ["Ignora el color", "Prioriza la coherencia local sobre la global", "Enfoca solo los puntos de fuga", "Elimina la profundidad"],
+      "correct": 1
+    },
+    {
+      "testType": "figuras",
+      "figure": "stairs",
+      "difficulty": "dificil",
+      "question": "¿Qué característica de los peldaños permite que la conexión final parezca continua a pesar del cambio de nivel?",
+      "answers": ["El uso de texturas degradadas", "El grosor variable de las líneas", "La ausencia de sombras proyectadas", "La distorsión de los ángulos de unión"],
+      "correct": 3
+    },
+
+    {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "1. Según la Psicología de la Gestalt, ¿cuál es el principio que explica nuestra tendencia a percibir formas incompletas como si estuvieran cerradas?",
+    "answers": ["Ley de Proximidad", "Ley de Cierre", "Ley de Continuidad", "Ley de Semejanza"],
+    "correct": 1
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "2. ¿Cómo se denomina al proceso cognitivo 'de arriba hacia abajo' donde nuestras expectativas e ideas previas influyen en lo que percibimos?",
+    "answers": ["Procesamiento Bottom-up", "Percepción Subliminal", "Procesamiento Top-down", "Acomodación"],
+    "correct": 2
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "3. En la teoría de James Gibson, ¿qué término define las oportunidades de acción que un entorno u objeto ofrece a un individuo?",
+    "answers": ["Affordances", "Esquemas", "Gradientes de textura", "Invariantes"],
+    "correct": 0
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "4. ¿Qué fenómeno ocurre cuando la exposición a un estímulo influye en la respuesta a un estímulo posterior sin conciencia de ello?",
+    "answers": ["Habituación", "Priming (Facilitación)", "Condicionamiento operante", "Sensibilización"],
+    "correct": 1
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "5. ¿Cuál es la función principal de la 'vía dorsal' (vía del donde) en el sistema visual humano?",
+    "answers": ["Reconocimiento de rostros", "Identificación de colores", "Localización y guía de acciones en el espacio", "Análisis de texturas finas"],
+    "correct": 2
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "6. ¿Qué nombre recibe la incapacidad de reconocer objetos familiares a pesar de tener la visión intacta?",
+    "answers": ["Afasia", "Amnesia retrógrada", "Agnosia visual", "Apraxia"],
+    "correct": 2
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "7. ¿Cuál de estas es una clave binocular de profundidad que depende de la diferencia de ángulo entre ambos ojos al enfocar un objeto cercano?",
+    "answers": ["Paralaje de movimiento", "Perspectiva lineal", "Convergencia", "Interposición"],
+    "correct": 2
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "8. En percepción espacial, la capacidad de rotar mentalmente un objeto 3D se asocia principalmente con el lóbulo:",
+    "answers": ["Temporal", "Occipital", "Frontal", "Parietal"],
+    "correct": 3
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "9. ¿Qué describe la 'Paradoja de la ventana de Ames' respecto a la percepción?",
+    "answers": ["Que el color cambia según la luz", "Que el cerebro prioriza la forma conocida sobre la lógica del movimiento", "Que los objetos lejanos parecen moverse más lento", "Que el ojo ignora los puntos ciegos"],
+    "correct": 1
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "10. ¿Cuál es el beneficio principal de la Realidad Aumentada (RA) en el entrenamiento de habilidades espaciales?",
+    "answers": ["Sustituir la visión real", "Permitir la interacción multisentido con objetos virtuales en espacio real", "Reducir el tiempo de atención del usuario", "Eliminar la necesidad de memoria a corto plazo"],
+    "correct": 1
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "11. El fenómeno por el cual percibimos que los objetos mantienen su tamaño a pesar de que su imagen en la retina cambie al alejarse se llama:",
+    "answers": ["Constancia de tamaño", "Efecto Doppler visual", "Ilusión de Ponzo", "Acomodación retinal"],
+    "correct": 0
+  },
+  {
+    "testType": "cognicion",
+    "figure": "",
+    "difficulty": "",
+    "question": "12. ¿Qué sistema sensorial es fundamental para la propiocepción (conciencia de la posición del propio cuerpo)?",
+    "answers": ["Sistema Olfativo", "Sistema Vestibular y Somatosensorial", "Sistema Auditivo", "Sistema Límbico"],
+    "correct": 1
+    },
+    {
+      "testType": "cognicion",
+      "figure": "",
+      "difficulty": "",
+      "question": "13. ¿Qué fenómeno hace ver movimiento donde no lo hay?",
+      "answers": ["Ilusión óptica", "Reflejo", "Sombra", "Locomoción"],
+      "correct": 0
+    },
+    
+    {
+    "testType": "percepcion",
+    "question": "1. Al entrar en una habitación nueva, noto primero el ambiente y la forma general antes que los objetos específicos.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "2. Cuando armo un mueble o juguete, prefiero concentrarme minuciosamente en una pieza a la vez en lugar de ver el resultado final.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "3. Puedo reconocer una calle o un edificio conocido aunque haya poca luz o el clima dificulte ver los detalles.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "4. Al leer un mapa o un plano, puedo imaginar fácilmente hacia dónde girar sin tener que rotar físicamente el papel o el móvil.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "5. Si veo un objeto desde lejos, soy capaz de imaginar con precisión cómo se vería si lo estuviera observando desde arriba.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "6. Me cuesta mucho trabajo visualizar cómo quedaría un mueble en mi habitación si tengo que moverlo mentalmente antes de comprarlo.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "7. Al conducir o caminar, calculo con precisión la distancia entre los objetos y yo para evitar choques o tropiezos.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "8. Me confundo fácilmente cuando trato de entender dibujos que representan profundidad (como cubos en 3D dibujados en papel).",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "9. Puedo interpretar rápidamente qué está ocurriendo en una imagen abstracta o compleja, incluso si tiene varias capas.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "10. Tomo decisiones rápidas sobre dónde colocar un objeto en un espacio basándome en mi primer presentimiento visual.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "11. Prefiero medir o revisar instrucciones detalladas antes de confiar en mi capacidad para acomodar objetos en un maletero o armario.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  },
+  {
+    "testType": "percepcion",
+    "question": "12. Caminar alrededor de un objeto o verlo desde varios ángulos me da una comprensión mucho más clara de su tamaño real.",
+    "answersWithValue": [
+      { "text": "Casi nunca", "value": 1 },
+      { "text": "A veces", "value": 2 },
+      { "text": "Frecuentemente", "value": 4 },
+      { "text": "Casi siempre", "value": 5 }
+    ]
+  }
+    
+
+  ]
+}
